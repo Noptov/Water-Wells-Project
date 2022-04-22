@@ -37,6 +37,7 @@ Using the final model, the Ministry of Water can ensure it identifies wells that
 ├──[images/](https://github.com/Noptov/Water-Wells-Project/tree/main/Images)     <br> 
 ├──[.gitignore](https://github.com/Noptov/Water-Wells-Project/blob/main/.gitignore)   <br> 
 ├──[Exploratory Data Analysis notebook](https://github.com/Noptov/Water-Wells-Project/blob/main/EDA.ipynb)     <br> 
-├──[Final Notebook.ipynb](https://bit.ly/3q1c5rD)      <br>
-├──[Presentation.pdf](https://bit.ly/3i2zO6v)    <br>
-├──[README.md](https://bit.ly/3w1luDp)      <br>
+├──[Final Notebook](https://github.com/Noptov/Water-Wells-Project/blob/main/FinalNotebook.ipynb)      <br>
+├──[README.md](https://github.com/Noptov/Water-Wells-Project/blob/main/README.md)      <br>
+├──[Map Plot Notebook](https://github.com/Noptov/Water-Wells-Project/blob/main/mapplot2.ipynb) <br>
+├──[Presentation.pdf]()
