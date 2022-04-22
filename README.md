@@ -27,6 +27,8 @@ Important features for identifying wells in need of repair include latitude/long
 # Conclusion
 Using the final model, the Ministry of Water can ensure it identifies wells that need work and dispatch crews in an efficient manner.  It is recommended they focus extra attention on the Southeast corner of the country and on older wells.
 
+![Lindi and Mtwara](/Images/SE%20wells.png)
+
 ### Follow up steps include:
  - Modeling the effects of the rainy/dry seasons
 - Evaluating the construction and maintanence cost of different well types against their failure rates
