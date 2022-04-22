@@ -1,2 +1,4 @@
 # Water-Wells-Project
-Phase 3 Project for Flatiron: Focusing on Tanzanian Water Wells
+By William Norton Jr
+
+![Tanzanian Children at new well](/images/kids wells.jpg)
